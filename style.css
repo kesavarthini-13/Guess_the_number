@@ -1,0 +1,21 @@
+body
+{
+  background: skyblue;  
+  height: 90%;
+  width:50%;
+  border: 5px solid lightgray;
+  border-color: aquamarine;
+  margin: auto;
+  margin-top: 5%;
+ 
+}
+#box
+{
+   
+    text-align:center;
+    border: 5px solid black;
+    margin: auto;
+    text-align: center;
+    background: greenyellow;
+  
+}
